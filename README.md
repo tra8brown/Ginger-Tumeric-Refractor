@@ -1,4 +1,15 @@
 # Ginger-Tumeric-Refractor
-README needs a title and a short description explaining the what, why, and how. what was your motivation? why did you build this project? what problem does it solve? what did you learn? what makes you project stand out? 
-include a link to the deployed application here. and the other link.
-https://guides.github.com/features/mastering-markdown/ use these for github?
+
+1. I originally noticed there were a lot of <div> and it felt a little overwhelming so i changed up some of the properties like the class header for header attributes.
+2. updated <div class="content"> for main element 
+3. added a main semantic under <div class="hero">  ####fix
+4. updated divs for the section element.
+5. used the aside element for the side content.
+6. noticed there was no class in css for the class, benefits so i deleted that line.
+7. changed the fonts from h3 to h2 and back to h3.
+8. updated the <div class="footer"> to just the <footer> element
+9. updated the color in css for the side content to #0072bb
+10. added text-alight: center; to aside property in css. 
+
+_add the URL of the deployed application here_
+_URL of github repo here_
