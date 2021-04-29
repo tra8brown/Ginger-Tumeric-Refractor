@@ -10,6 +10,7 @@
 8. updated the <div class="footer"> to just the <footer> element
 9. updated the color in css for the side content to #0072bb
 10. added text-alight: center; to aside property in css. 
+11. consolidated matching properties and values in css, there was quite a few. 
 
 _add the URL of the deployed application here_
 _URL of github repo here_
